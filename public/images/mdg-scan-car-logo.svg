@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="none"/>
+  <path d="M117 281h191c25 0 45 20 45 45v36H77v-39c0-23 17-42 40-42Z" stroke="#000000" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M143 281l40-67h102l43 67" stroke="#000000" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M151 363a39 39 0 1 0 0-78 39 39 0 0 0 0 78Z" fill="#000000"/>
+  <path d="M313 363a39 39 0 1 0 0-78 39 39 0 0 0 0 78Z" fill="#000000"/>
+  <path d="M218 329h55" stroke="#000000" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="322" cy="184" r="76" stroke="#000000" stroke-width="24"/>
+  <path d="M378 240l69 69" stroke="#000000" stroke-width="24" stroke-linecap="round"/>
+  <text x="256" y="447" text-anchor="middle" fill="#000000" font-size="43" font-weight="900" font-family="Arial, Helvetica, sans-serif" letter-spacing="6">MDG SCAN CAR</text>
+</svg>
