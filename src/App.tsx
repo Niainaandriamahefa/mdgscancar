@@ -102,7 +102,7 @@ const methodSteps = [
 ];
 
 function LogoMark({ className = "" }: { className?: string }) {
-  return <img src="/images/Logo.jpg" alt="Logo MDG Scan Car" className={className} />;
+  return <img src="/images/Logo.png" alt="Logo MDG Scan Car" className={className} />;
 }
 
 function Header({ activePage, onNavigate }: { activePage: Page; onNavigate: (page: Page) => void }) {
